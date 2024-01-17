@@ -33,3 +33,7 @@ More info about dataset can be found here:
 
 ## Data Model
 <img src="uber_data_architecture.jpeg">
+
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
